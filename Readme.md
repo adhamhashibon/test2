@@ -4,5 +4,5 @@ I like to use nano but I prefer to use vim
 - this is a bullet 
 - this is another bullet 
 
-1. this is a mumber list
-1.m I do not need to increment!
+1. this is a number list
+1. I do not need to increment!
